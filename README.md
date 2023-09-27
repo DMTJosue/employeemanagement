@@ -1,5 +1,5 @@
 # schoolmanagement
-Application de location de tricycle
+gestion d'employé
 
 ## ✨ Goal
 - Class and subclass creation.
