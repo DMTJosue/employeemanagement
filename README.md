@@ -9,9 +9,6 @@ gestion d'employé
 
 ## 🤷‍♂️ How to use it
 > Download the code  and use a java editor to open project
-## ✨ How to use it
-
-> Download the code 
 
 ```bash
 $ git clone https://github.com/DMTJosue/employeemanagement.git
